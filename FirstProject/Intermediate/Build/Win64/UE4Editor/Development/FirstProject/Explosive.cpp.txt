@@ -1,0 +1,36 @@
+D:\Udemy Unreal Series 2 Repository\LearnCPPForUnrealEngineUnit2\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\Definitions.FirstProject.h
+d:\udemy unreal series 2 repository\learncppforunrealengineunit2\firstproject\source\firstproject\Explosive.h
+d:\udemy unreal series 2 repository\learncppforunrealengineunit2\firstproject\source\firstproject\Item.h
+D:\Udemy Unreal Series 2 Repository\LearnCPPForUnrealEngineUnit2\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\Item.generated.h
+D:\Udemy Unreal Series 2 Repository\LearnCPPForUnrealEngineUnit2\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\Explosive.generated.h
+d:\udemy unreal series 2 repository\learncppforunrealengineunit2\firstproject\source\firstproject\Main.h
+d:\udemy unreal series 2 repository\learncppforunrealengineunit2\firstproject\source\firstproject\WeaponContainer.h
+d:\udemy unreal series 2 repository\learncppforunrealengineunit2\firstproject\source\firstproject\Weapon.h
+D:\Udemy Unreal Series 2 Repository\LearnCPPForUnrealEngineUnit2\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\Weapon.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+D:\Udemy Unreal Series 2 Repository\LearnCPPForUnrealEngineUnit2\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\WeaponContainer.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+D:\Udemy Unreal Series 2 Repository\LearnCPPForUnrealEngineUnit2\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\Main.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CollisionProfile.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\engine\classes\kismet\GameplayStaticsTypes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Sound/SoundCue.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Sound/SoundNode.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundNode.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundCue.generated.h
+d:\udemy unreal series 2 repository\learncppforunrealengineunit2\firstproject\source\firstproject\Enemy.h
+D:\Udemy Unreal Series 2 Repository\LearnCPPForUnrealEngineUnit2\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\Enemy.generated.h

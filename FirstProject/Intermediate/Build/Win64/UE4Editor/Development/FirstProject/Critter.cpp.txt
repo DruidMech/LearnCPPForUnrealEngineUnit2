@@ -1,0 +1,9 @@
+D:\Udemy Unreal Series 2 Repository\LearnCPPForUnrealEngineUnit2\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\Definitions.FirstProject.h
+d:\udemy unreal series 2 repository\learncppforunrealengineunit2\firstproject\source\firstproject\Critter.h
+D:\Udemy Unreal Series 2 Repository\LearnCPPForUnrealEngineUnit2\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\Critter.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+d:\udemy unreal series 2 repository\learncppforunrealengineunit2\firstproject\source\firstproject\Weapon.h
+d:\udemy unreal series 2 repository\learncppforunrealengineunit2\firstproject\source\firstproject\Item.h
+D:\Udemy Unreal Series 2 Repository\LearnCPPForUnrealEngineUnit2\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\Item.generated.h
+D:\Udemy Unreal Series 2 Repository\LearnCPPForUnrealEngineUnit2\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\Weapon.generated.h

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Udemy Unreal Series 2 Repository\\LearnCPPForUnrealEngineUnit2\\FirstProject\\Source\\FirstProject\\FirstProject.Build.cs",
+		"D:\\Udemy Unreal Series 2 Repository\\LearnCPPForUnrealEngineUnit2\\FirstProject\\Source\\FirstProject.Target.cs",
+		"D:\\Udemy Unreal Series 2 Repository\\LearnCPPForUnrealEngineUnit2\\FirstProject\\Source\\FirstProjectEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.1"
+}

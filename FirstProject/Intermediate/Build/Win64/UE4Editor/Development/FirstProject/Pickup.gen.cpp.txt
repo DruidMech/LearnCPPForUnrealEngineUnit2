@@ -1,0 +1,7 @@
+D:\Udemy Unreal Series 2 Repository\LearnCPPForUnrealEngineUnit2\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\Definitions.FirstProject.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Udemy Unreal Series 2 Repository\LearnCPPForUnrealEngineUnit2\FirstProject\Source\FirstProject/Pickup.h
+d:\udemy unreal series 2 repository\learncppforunrealengineunit2\firstproject\source\firstproject\Item.h
+d:\udemy unreal series 2 repository\learncppforunrealengineunit2\firstproject\intermediate\build\win64\ue4editor\inc\firstproject\Item.generated.h
+d:\udemy unreal series 2 repository\learncppforunrealengineunit2\firstproject\intermediate\build\win64\ue4editor\inc\firstproject\Pickup.generated.h

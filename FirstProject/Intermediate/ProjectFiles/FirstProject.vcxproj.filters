@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FirstProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{B768EF62-B990-4B05-A20F-86802966E563}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FirstProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FirstProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{AF902213-6621-4226-B3D3-54188D39C469}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FirstProject">
+      <UniqueIdentifier>{F763B01E-41ED-4614-AC08-10D2AEB1827F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FirstProject\Collider.cpp">
+      <Filter>Source\FirstProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstProject\Collider.h">
+      <Filter>Source\FirstProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstProject\ColliderMovementComponent.cpp">
+      <Filter>Source\FirstProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstProject\ColliderMovementComponent.h">
+      <Filter>Source\FirstProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstProject\Critter.cpp">
+      <Filter>Source\FirstProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstProject\Critter.h">
+      <Filter>Source\FirstProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstProject\Enemy.cpp">
+      <Filter>Source\FirstProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstProject\Enemy.h">
+      <Filter>Source\FirstProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstProject\EnemyAnimInstance.cpp">
+      <Filter>Source\FirstProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstProject\EnemyAnimInstance.h">
+      <Filter>Source\FirstProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstProject\Explosive.cpp">
+      <Filter>Source\FirstProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstProject\Explosive.h">
+      <Filter>Source\FirstProject</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\FirstProject\FirstProject.Build.cs">
+      <Filter>Source\FirstProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FirstProject\FirstProject.cpp">
+      <Filter>Source\FirstProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstProject\FirstProject.h">
+      <Filter>Source\FirstProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstProject\FirstProjectGameModeBase.cpp">
+      <Filter>Source\FirstProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstProject\FirstProjectGameModeBase.h">
+      <Filter>Source\FirstProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstProject\FirstSaveGame.cpp">
+      <Filter>Source\FirstProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstProject\FirstSaveGame.h">
+      <Filter>Source\FirstProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstProject\FloatingPlatform.cpp">
+      <Filter>Source\FirstProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstProject\FloatingPlatform.h">
+      <Filter>Source\FirstProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstProject\FloorSwitch.cpp">
+      <Filter>Source\FirstProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstProject\FloorSwitch.h">
+      <Filter>Source\FirstProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstProject\Item.cpp">
+      <Filter>Source\FirstProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstProject\Item.h">
+      <Filter>Source\FirstProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstProject\LevelTransitionVolume.cpp">
+      <Filter>Source\FirstProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstProject\LevelTransitionVolume.h">
+      <Filter>Source\FirstProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstProject\Main.cpp">
+      <Filter>Source\FirstProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstProject\Main.h">
+      <Filter>Source\FirstProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstProject\MainAnimInstance.cpp">
+      <Filter>Source\FirstProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstProject\MainAnimInstance.h">
+      <Filter>Source\FirstProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstProject\MainPlayerController.cpp">
+      <Filter>Source\FirstProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstProject\MainPlayerController.h">
+      <Filter>Source\FirstProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstProject\Pickup.cpp">
+      <Filter>Source\FirstProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstProject\Pickup.h">
+      <Filter>Source\FirstProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstProject\SpawnVolume.cpp">
+      <Filter>Source\FirstProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstProject\SpawnVolume.h">
+      <Filter>Source\FirstProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstProject\Weapon.cpp">
+      <Filter>Source\FirstProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstProject\Weapon.h">
+      <Filter>Source\FirstProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstProject\WeaponContainer.cpp">
+      <Filter>Source\FirstProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstProject\WeaponContainer.h">
+      <Filter>Source\FirstProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstProject\WeaponContainerActor.cpp">
+      <Filter>Source\FirstProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstProject\WeaponContainerActor.h">
+      <Filter>Source\FirstProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

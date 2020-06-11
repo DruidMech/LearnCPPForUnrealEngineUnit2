@@ -1,0 +1,16 @@
+D:\Udemy Unreal Series 2 Repository\LearnCPPForUnrealEngineUnit2\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\Definitions.FirstProject.h
+d:\udemy unreal series 2 repository\learncppforunrealengineunit2\firstproject\source\firstproject\Item.h
+D:\Udemy Unreal Series 2 Repository\LearnCPPForUnrealEngineUnit2\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\Item.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystemComponent.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystem.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Particles/ParticlePerfStats.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystem.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Particles/Emitter.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Emitter.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystemComponent.generated.h

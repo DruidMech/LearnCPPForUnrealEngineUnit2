@@ -1,0 +1,22 @@
+D:\Udemy Unreal Series 2 Repository\LearnCPPForUnrealEngineUnit2\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\Definitions.FirstProject.h
+d:\udemy unreal series 2 repository\learncppforunrealengineunit2\firstproject\source\firstproject\FirstSaveGame.h
+d:\udemy unreal series 2 repository\learncppforunrealengineunit2\firstproject\source\firstproject\Main.h
+d:\udemy unreal series 2 repository\learncppforunrealengineunit2\firstproject\source\firstproject\WeaponContainer.h
+d:\udemy unreal series 2 repository\learncppforunrealengineunit2\firstproject\source\firstproject\Weapon.h
+d:\udemy unreal series 2 repository\learncppforunrealengineunit2\firstproject\source\firstproject\Item.h
+D:\Udemy Unreal Series 2 Repository\LearnCPPForUnrealEngineUnit2\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\Item.generated.h
+D:\Udemy Unreal Series 2 Repository\LearnCPPForUnrealEngineUnit2\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\Weapon.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+D:\Udemy Unreal Series 2 Repository\LearnCPPForUnrealEngineUnit2\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\WeaponContainer.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+D:\Udemy Unreal Series 2 Repository\LearnCPPForUnrealEngineUnit2\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\Main.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/SaveGame.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SaveGame.generated.h
+D:\Udemy Unreal Series 2 Repository\LearnCPPForUnrealEngineUnit2\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\FirstSaveGame.generated.h

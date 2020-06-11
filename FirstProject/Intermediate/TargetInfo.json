@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FirstProject",
+			"Path": "D:\\Udemy Unreal Series 2 Repository\\LearnCPPForUnrealEngineUnit2\\FirstProject\\Source\\FirstProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FirstProjectEditor",
+			"Path": "D:\\Udemy Unreal Series 2 Repository\\LearnCPPForUnrealEngineUnit2\\FirstProject\\Source\\FirstProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
